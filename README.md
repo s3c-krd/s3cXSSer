@@ -6,7 +6,7 @@ S3C - XSSER - Chrome extension
 
 
 
-    How to add it to chrome or brave browser
+### How to add it to chrome or brave browser
 ------------------------------------------------------
 
 1- Go to brave://extensions/ or chrome://extensions/
@@ -23,7 +23,7 @@ By deafult this extension run on all websites so you want to use on one target d
 2- hover this can read and change site data >> choose when you click the extension option
 
 
-                                   How it works?
+### How to use it?
 
 1- go to the target that you want to test xss on it then click on XSS logo extension
 
