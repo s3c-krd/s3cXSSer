@@ -1,0 +1,28 @@
+{
+
+
+  "name": "S3c XSSER",
+  "description": "Find GET And POST method XSS",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png"
+  },
+"background":{
+"scripts":["js/bg.js"]
+},
+"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+    
+  "permissions": [
+   "activeTab",
+    "webRequest",
+    "webRequestBlocking",
+    "activeTab",  
+    "cookies",
+    "tabs",
+      "storage", 
+      "\u003Call_urls>",
+       "contextMenus"
+   ],
+      "manifest_version": 2
+}
