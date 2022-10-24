@@ -18,8 +18,10 @@ S3C - XSSER - Chrome extension
 
 -------------------------------------------------------
 
-By deafult this extension run on all websites so if you want to use it on one target do these steps
+#### By deafult this extension run on all websites so if you want to use it on one target do these steps
+
 1- right click on the extension 
+
 2- hover this can read and change site data >> choose when you click the extension option
 
 
