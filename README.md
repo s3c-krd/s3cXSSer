@@ -9,7 +9,7 @@ S3C - XSSER - Chrome extension
 ### How to add it to chrome or brave browser
 ------------------------------------------------------
 
-1- Go to brave://extensions/ or chrome://extensions/
+1- Go to `brave://extensions/` or `chrome://extensions/`
 
 2- enable Developer mode and click Load unpacked
 
