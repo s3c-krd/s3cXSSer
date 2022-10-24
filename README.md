@@ -22,7 +22,7 @@ S3C - XSSER - Chrome extension
 
 1- right click on the extension 
 
-2- hover this can read and change site data >> choose when you click the extension option
+2- hover `this can read and change site data` >> choose `when you click the extension` option
 
 
 ### How to use it?
