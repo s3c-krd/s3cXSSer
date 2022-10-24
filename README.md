@@ -33,4 +33,4 @@ If there was no result that means there is no xss found on this page if it found
 
 
 
-For more infromation contact s3c@wearehackerone.com or <a href="https://twitter.com/s3c_krd">@s3c_krd</a>
+For more infromation contact s3c@wearehackerone.com or <a target=_blank href="https://twitter.com/s3c_krd">@s3c_krd</a>
