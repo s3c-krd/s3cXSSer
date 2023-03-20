@@ -17,7 +17,7 @@ S3C - XSSER - Chrome extension
 
 
 ------------------------------------------------------
-#                    **NOTICE** 
+##                    **NOTICE:** 
                    
 #### By deafult this extension run on all websites so if you want to use it on one target do these steps
 
