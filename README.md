@@ -16,8 +16,9 @@ S3C - XSSER - Chrome extension
 3- locate the folder of extension and click Ok
 
 
--------------------------------------------------------
------------------###TIP---------------------
+------------------------------------------------------
+------------------------**TIP**-----------------------
+                   
 #### By deafult this extension run on all websites so if you want to use it on one target do these steps
 
 1- right click on the extension 
